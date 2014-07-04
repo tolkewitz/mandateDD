@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<all>
+<person>
+	<name type="single">Horst</name>
+	<givenName>Horst</givenName>
+	<gender>Male</gender>
+</person>
+<person>
+	<name type="notsingle">Horst Peter Meyer</name>
+        <givenName>Horst Peter</givenName>
+	<gender>Male</gender>
+</person>
+</all>
